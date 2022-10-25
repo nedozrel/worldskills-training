@@ -1,0 +1,1 @@
+# Worldskills frontend training
